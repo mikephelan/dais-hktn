@@ -15,7 +15,7 @@ Learn about Large Language Models/Foundation Models on Databricks
 - Run samples on DCC via Guide: Quickstart tutorial
 - Learn about cluster and system details of Databricks Community Cloud
 
-###Next Steps
+##Next Steps
 - Study materials directly on [dbdemos.ai](https://www.dbdemos.ai/) website
 - Explore Dolly resources, while using non-trial Databricks account
 - Set up and run [dbdemos](https://github.com/databricks-demos/dbdemos) demonstration of llm-dolly-chatbot
